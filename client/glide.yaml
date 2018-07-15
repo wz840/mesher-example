@@ -1,0 +1,3 @@
+package: github.com/huawei-microservice-demo/mesher-example/client
+import:
+- package: github.com/tedsuo/rata

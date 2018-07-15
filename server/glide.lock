@@ -1,0 +1,24 @@
+hash: 00b306d5c10196f91291d6bc23c0c400ba36ccc6c3e1eba8c2c4b5a44461115c
+updated: 2018-07-15T01:13:31.849512422-04:00
+imports:
+- name: github.com/bmizerany/pat
+  version: 6226ea591a40176dd3ff9cd8eff81ed6ca721a00
+- name: github.com/buaazp/fasthttprouter
+  version: 28db72dff5a1512dab256b4b7f85c5aa8c36cf73
+- name: github.com/klauspost/compress
+  version: e3b7981a12dd3cab49afa1d3a50e715846f23732
+  subpackages:
+  - flate
+  - gzip
+  - zlib
+- name: github.com/klauspost/cpuid
+  version: 09cded8978dc9e80714c4d85b0322337b0a1e5e0
+- name: github.com/klauspost/crc32
+  version: cb6bfca970f6908083f26f39a79009d608efd5cd
+- name: github.com/tedsuo/rata
+  version: 07d200713958d05692ac35aa8b5f1949342fee80
+- name: github.com/valyala/fasthttp
+  version: d42167fd04f636e20b005e9934159e95454233c7
+  subpackages:
+  - fasthttputil
+testImports: []
